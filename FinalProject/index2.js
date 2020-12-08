@@ -12,7 +12,7 @@ function typeWriter(){
 
 document.getElementById('ubahGambar').onclick = function change_image()
 {
-    document.getElementById("foto").src="foto/pict2.PNG";
+    document.getElementById("foto").src="foto/pict2.png";
     document.getElementById('teks').textContent = "Gambar ini sudah di ganti dengan gambar sebelumnya";
 }
 
